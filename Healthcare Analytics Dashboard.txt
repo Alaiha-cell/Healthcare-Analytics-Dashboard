@@ -1,0 +1,12 @@
+# Healthcare Analytics Dashboard
+
+This Power BI dashboard visualizes over 55,000 patient records including metrics like:
+- Total Patients
+- Billing Amount
+- Avg Length of Stay
+- Gender Distribution
+- Medical Conditions
+- Yearly Trends
+
+## Screenshot
+![Dashboard Preview](dashboard_preview.png)
